@@ -1,0 +1,156 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{Introducción}{3}{Introducción}{0}}
+\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Contexto general}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{Contexto general}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{1}{2}{4/4}{Contexto general}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionpages {3}{4}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{5}{Estado del arte}}
+\headcommand {\beamer@sectionpages {3}{4}}
+\headcommand {\beamer@subsectionpages {5}{4}}
+\headcommand {\sectionentry {2}{Objetivos}{5}{Objetivos}{0}}
+\headcommand {\beamer@subsectionpages {5}{4}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{5}{Objetivos principales}}
+\headcommand {\slideentry {2}{1}{1}{5/5}{Objetivos principales}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{6}{Operativización de los objetivos principales}}
+\headcommand {\slideentry {2}{2}{1}{6/6}{Operativización de los objetivos principales}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {2}{2}{2}{7/7}{Operativización de los objetivos principales}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {2}{2}{3}{8/8}{Operativización de los objetivos principales}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {2}{2}{4}{9/9}{Operativización de los objetivos principales}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {2}{2}{5}{10/10}{Operativización de los objetivos principales}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {2}{2}{6}{11/11}{Operativización de los objetivos principales}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@sectionpages {5}{11}}
+\headcommand {\beamer@subsectionpages {6}{11}}
+\headcommand {\sectionentry {3}{Subobjetivos e hipótesis}{12}{Subobjetivos e hipótesis}{0}}
+\headcommand {\slideentry {3}{0}{1}{12/12}{}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{13}{Operativacización de los subobjetivos}}
+\headcommand {\slideentry {3}{1}{1}{13/13}{Operativacización de los subobjetivos}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {3}{1}{2}{14/14}{Operativacización de los subobjetivos}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {3}{1}{3}{15/15}{Operativacización de los subobjetivos}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@sectionpages {12}{15}}
+\headcommand {\beamer@subsectionpages {13}{15}}
+\headcommand {\sectionentry {4}{Procesamiento de datos y técnicas de aprendizaje supervisado}{16}{Procesamiento de datos y técnicas de aprendizaje supervisado}{0}}
+\headcommand {\slideentry {4}{0}{1}{16/16}{}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {4}{0}{2}{17/17}{}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {4}{0}{3}{18/18}{}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {4}{0}{4}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@sectionpages {16}{19}}
+\headcommand {\beamer@subsectionpages {16}{19}}
+\headcommand {\sectionentry {5}{Resultados}{20}{Resultados}{0}}
+\headcommand {\slideentry {5}{0}{1}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{21}{Objetivos 1, 2 y 3 - Hipótesis A: medidas ponderadas}}
+\headcommand {\slideentry {5}{1}{1}{21/21}{Objetivos 1, 2 y 3 - Hipótesis A: medidas ponderadas}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {5}{1}{2}{22/22}{Objetivos 1, 2 y 3 - Hipótesis A: medidas ponderadas}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {5}{1}{3}{23/23}{Objetivos 1, 2 y 3 - Hipótesis A: medidas ponderadas}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\beamer@subsectionpages {21}{23}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{24}{Objetivos 1, 2 y 3 - Hipótesis B: Medidas híbridas}}
+\headcommand {\slideentry {5}{2}{1}{24/24}{Objetivos 1, 2 y 3 - Hipótesis B: Medidas híbridas}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {5}{2}{2}{25/25}{Objetivos 1, 2 y 3 - Hipótesis B: Medidas híbridas}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {5}{2}{3}{26/26}{Objetivos 1, 2 y 3 - Hipótesis B: Medidas híbridas}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@subsectionpages {24}{26}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{27}{Objetivos 1, 2 y 3 - Hipótesis C: Medidas de sentimiento}}
+\headcommand {\slideentry {5}{3}{1}{27/27}{Objetivos 1, 2 y 3 - Hipótesis C: Medidas de sentimiento}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\slideentry {5}{3}{2}{28/28}{Objetivos 1, 2 y 3 - Hipótesis C: Medidas de sentimiento}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {5}{3}{3}{29/29}{Objetivos 1, 2 y 3 - Hipótesis C: Medidas de sentimiento}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\beamer@subsectionpages {27}{29}}
+\headcommand {\beamer@subsectionentry {0}{5}{4}{30}{ Objetivo 1 - Rangos Tempolares}}
+\headcommand {\slideentry {5}{4}{1}{30/30}{ Objetivo 1 - Rangos Tempolares}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {5}{4}{2}{31/31}{ Objetivo 1 - Rangos Tempolares}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {5}{4}{3}{32/32}{ Objetivo 1 - Rangos Tempolares}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@subsectionpages {30}{32}}
+\headcommand {\beamer@subsectionentry {0}{5}{5}{33}{ Objetivos 2 y 3: Tipo de bloques temporales}}
+\headcommand {\slideentry {5}{5}{1}{33/33}{ Objetivos 2 y 3: Tipo de bloques temporales}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {5}{5}{2}{34/34}{ Objetivos 2 y 3: Tipo de bloques temporales}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\slideentry {5}{5}{3}{35/35}{ Objetivos 2 y 3: Tipo de bloques temporales}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {5}{5}{4}{36/36}{ Objetivos 2 y 3: Tipo de bloques temporales}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\beamer@subsectionpages {33}{36}}
+\headcommand {\beamer@subsectionentry {0}{5}{6}{37}{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}}
+\headcommand {\slideentry {5}{6}{1}{37/37}{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {5}{6}{2}{38/38}{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {5}{6}{3}{39/39}{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {5}{6}{4}{40/40}{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\beamer@subsectionpages {37}{40}}
+\headcommand {\beamer@subsectionentry {0}{5}{7}{41}{Subobjetivo 2: Hipótesis del Esquema Social Cognitivo}}
+\headcommand {\slideentry {5}{7}{1}{41/41}{Subobjetivo 2: Hipótesis del Esquema Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\slideentry {5}{7}{2}{42/42}{Subobjetivo 2: Hipótesis del Esquema Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {5}{7}{3}{43/43}{Subobjetivo 2: Hipótesis del Esquema Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {5}{7}{4}{44/44}{Subobjetivo 2: Hipótesis del Esquema Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@subsectionpages {41}{44}}
+\headcommand {\beamer@subsectionentry {0}{5}{8}{45}{Subobjetivo 3: Hipótesis del Balance Social Cognitivo}}
+\headcommand {\slideentry {5}{8}{1}{45/45}{Subobjetivo 3: Hipótesis del Balance Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {5}{8}{2}{46/46}{Subobjetivo 3: Hipótesis del Balance Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {5}{8}{3}{47/47}{Subobjetivo 3: Hipótesis del Balance Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {5}{8}{4}{48/48}{Subobjetivo 3: Hipótesis del Balance Social Cognitivo}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\beamer@sectionpages {20}{48}}
+\headcommand {\beamer@subsectionpages {45}{48}}
+\headcommand {\sectionentry {6}{Conclusiones}{49}{Conclusiones}{0}}
+\headcommand {\slideentry {6}{0}{1}{49/49}{}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\slideentry {6}{0}{2}{50/50}{}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\slideentry {6}{0}{3}{51/51}{}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\slideentry {6}{0}{4}{52/52}{}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\beamer@sectionpages {49}{52}}
+\headcommand {\beamer@subsectionpages {49}{52}}
+\headcommand {\sectionentry {7}{Referencias}{53}{Referencias}{0}}
+\headcommand {\beamer@partpages {1}{55}}
+\headcommand {\beamer@subsectionpages {49}{55}}
+\headcommand {\beamer@sectionpages {49}{55}}
+\headcommand {\beamer@documentpages {55}}
+\headcommand {\gdef \inserttotalframenumber {52}}

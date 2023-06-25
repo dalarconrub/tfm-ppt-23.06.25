@@ -1,0 +1,20 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Introducción}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Contexto general}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Estado del arte}{5}{0}{1}
+\beamer@sectionintoc {2}{Objetivos}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Objetivos principales}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Operativización de los objetivos principales}{6}{0}{2}
+\beamer@sectionintoc {3}{Subobjetivos e hipótesis}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Operativacización de los subobjetivos}{13}{0}{3}
+\beamer@sectionintoc {4}{Procesamiento de datos y técnicas de aprendizaje supervisado}{16}{0}{4}
+\beamer@sectionintoc {5}{Resultados}{20}{0}{5}
+\beamer@subsectionintoc {5}{1}{Objetivos 1, 2 y 3 - Hipótesis A: medidas ponderadas}{21}{0}{5}
+\beamer@subsectionintoc {5}{2}{Objetivos 1, 2 y 3 - Hipótesis B: Medidas híbridas}{24}{0}{5}
+\beamer@subsectionintoc {5}{3}{Objetivos 1, 2 y 3 - Hipótesis C: Medidas de sentimiento}{27}{0}{5}
+\beamer@subsectionintoc {5}{4}{ Objetivo 1 - Rangos Tempolares}{30}{0}{5}
+\beamer@subsectionintoc {5}{5}{ Objetivos 2 y 3: Tipo de bloques temporales}{33}{0}{5}
+\beamer@subsectionintoc {5}{6}{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}{37}{0}{5}
+\beamer@subsectionintoc {5}{7}{Subobjetivo 2: Hipótesis del Esquema Social Cognitivo}{41}{0}{5}
+\beamer@subsectionintoc {5}{8}{Subobjetivo 3: Hipótesis del Balance Social Cognitivo}{45}{0}{5}
+\beamer@sectionintoc {6}{Conclusiones}{49}{0}{6}
