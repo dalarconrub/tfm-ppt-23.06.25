@@ -5,9 +5,9 @@
 \beamer@sectionintoc {2}{Objetivos}{5}{0}{2}
 \beamer@subsectionintoc {2}{1}{Objetivos principales}{5}{0}{2}
 \beamer@subsectionintoc {2}{2}{Operativización de los objetivos principales}{6}{0}{2}
-\beamer@sectionintoc {3}{Subobjetivos e hipótesis}{12}{0}{3}
-\beamer@subsectionintoc {3}{1}{Operativacización de los subobjetivos}{13}{0}{3}
-\beamer@sectionintoc {4}{Procesamiento de datos y técnicas de aprendizaje supervisado}{16}{0}{4}
+\beamer@subsectionintoc {2}{3}{Atributos}{12}{0}{2}
+\beamer@sectionintoc {3}{Subobjetivos e hipótesis}{15}{0}{3}
+\beamer@sectionintoc {4}{Procesamiento de datos y técnicas de aprendizaje supervisado}{18}{0}{4}
 \beamer@sectionintoc {5}{Resultados}{20}{0}{5}
 \beamer@subsectionintoc {5}{1}{Objetivos 1, 2 y 3 - Hipótesis A: medidas ponderadas}{21}{0}{5}
 \beamer@subsectionintoc {5}{2}{Objetivos 1, 2 y 3 - Hipótesis B: Medidas híbridas}{24}{0}{5}

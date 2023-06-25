@@ -197,7 +197,7 @@ Director: Antonio Rodríguez Anaya
 %========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
 	\frametitle{Subdivisión en bloques}
-	La subdivisión en bloques permite un análisis más detallado de la red social en segmentos específicos de tiempo \citet{kim2012a}. Se consideraron diferentes rangos temporales y se determinaron las opciones de subdivisión en bloques. 
+	La subdivisión en bloques permite un análisis más detallado de la red social en segmentos específicos de tiempo \citep{kim2012a}. Se consideraron diferentes rangos temporales y se determinaron las opciones de subdivisión en bloques. 
 	\begin{table}[H]
 		\centering
 		\begin{tabular}{ll}
@@ -254,26 +254,10 @@ Director: Antonio Rodríguez Anaya
 \end{frame}
 
 
-\section{Subobjetivos e hipótesis}
-%========= Diapositiva con ítems resaltados con colores:
-\begin{frame}
-	\frametitle{Subbjetivos e hipótesis}
-	\begin{block}{Subobjetivo 1: Teoría del capital social de la red}
-		Hipótesis A: Las medidas de centralidad ponderadas serán más capaces de capturar la importancia de las interacciones entre los nodos y predecir el abandono estudiantil \citep{wasko_why_2005}.
-		
-	\end{block}
-	\begin{block}{Subobjetivo 2: Teoría de la estructura social de la red}
-		Hipótesis B: Los modelos de medidas de centralidad globales serán más eficaces para predecir el abandono estudiantil en comparación con los modelos que solo consideran medidas locales \citep{krause_social_2007}.
-		
-	\end{block}
-	\begin{block}{Subobjetivo 3: Teoría del balance social de la red}
-		Hipótesis C: Las medidas de centralidad junto a las medidas de sentimiento expresadas en los mensajes podrán predecir el abandono estudiantil de manera más precisa \citep{kim2012a}.
-	\end{block}
-\end{frame}
 
 
 
-\subsection{Operativacización de los subobjetivos}
+\subsection{Atributos}
 
 \begin{frame}
 	\frametitle{Medidas de Centralidad en Redes Sociales}
@@ -295,7 +279,7 @@ Director: Antonio Rodríguez Anaya
 	\begin{block}{Medidas de Centralidad Ponderadas}
 		\begin{enumerate}
 			\item Las medidas de centralidad sin pesos consideran solo la topología de la red.
-			\item Las medidas de centralidad con pesos tienen en cuenta los pesos asociados a las conexiones \citet{tang2010a, barrat2004a} .
+			\item Las medidas de centralidad con pesos tienen en cuenta los pesos asociados a las conexiones \citep{tang2010a, barrat2004a} .
 		\end{enumerate}
 	\end{block}
 	
@@ -332,17 +316,23 @@ Director: Antonio Rodríguez Anaya
 	\end{block}
 	
 \end{frame}
-\section{Procesamiento de datos y técnicas  de aprendizaje supervisado}
+
+
+\section{Subobjetivos e hipótesis}
 %========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
-	\frametitle{Modelos predictivos por combinación de factores}
-	
-	\begin{figure}[H]
-		\centering
-		\includegraphics[width=0.5\linewidth]{figs/imagen32}
-		\caption{Modelos predictivos por combinación de factores.}
-		\label{fig:imagen32}
-	\end{figure}
+	\frametitle{Subbjetivos e hipótesis}
+	\begin{block}{Subobjetivo 1: Teoría del capital social de la red}
+		Hipótesis A: Las medidas de centralidad ponderadas serán más capaces de capturar la importancia de las interacciones entre los nodos y predecir el abandono estudiantil \citep{wasko_why_2005}.
+		
+	\end{block}
+	\begin{block}{Subobjetivo 2: Teoría de la estructura social de la red}
+		Hipótesis B: Los modelos de medidas de centralidad globales serán más eficaces para predecir el abandono estudiantil en comparación con los modelos que solo consideran medidas locales \citep{krause_social_2007}.
+		
+	\end{block}
+	\begin{block}{Subobjetivo 3: Teoría del balance social de la red}
+		Hipótesis C: Las medidas de centralidad junto a las medidas de sentimiento expresadas en los mensajes podrán predecir el abandono estudiantil de manera más precisa \citep{kim2012a}.
+	\end{block}
 \end{frame}
 
 
@@ -374,13 +364,30 @@ Director: Antonio Rodríguez Anaya
 \end{frame}
 
 
+\section{Procesamiento de datos y técnicas  de aprendizaje supervisado}
+%========= Diapositiva con ítems resaltados con colores:
+\begin{frame}
+	\frametitle{Modelos predictivos por combinación de factores}
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{figs/imagen32}
+		\caption{Modelos predictivos por combinación de factores.}
+		\label{fig:imagen32}
+	\end{figure}
+\end{frame}
+
+
 \begin{frame}
 	\frametitle{Índices de evaluación de las redes sociales dinámicas en la predicción}
 	\begin{block}{Evaluamos las teorías e hipótesis propuestas utilizando índices construidos específicos.}
 	\begin{itemize}
-		\item Índice de amplitud o cobertura de la información: Mide la capacidad del algoritmo para capturar la diversidad de interacciones en la red social dinámica.
-		\item Índice de unidad de información: Evalúa la capacidad del algoritmo para identificar grupos o comunidades dentro de la red social dinámica.
-		\item Índice de cantidad de información: Cuantifica la cantidad de información relevante proporcionada por el algoritmo sobre las interacciones en la red social dinámica.
+		\item Índice de amplitud o cobertura de la información: mide la proporción del tiempo total de la asignatura cubierta por cada rango de tiempo analizado en los foros de los estudiantes.
+		%Mide la capacidad del algoritmo para capturar la diversidad de interacciones en la red social dinámica.
+		\item Índice de unidad de información: evalúa el grado de subdivisión en bloques que se utiliza para obtener las medidas de posición de los estudiantes y de expresión de sentimientos.
+		%Evalúa la capacidad del algoritmo para identificar grupos o comunidades dentro de la red social dinámica.
+		\item Índice de cantidad de información: es una medida que combina el grado de subdivisión en bloques y la proporción de cobertura temporal en el análisis de redes sociales.
+		%Cuantifica la cantidad de información relevante proporcionada por el algoritmo sobre las interacciones en la red social dinámica.
 	\end{itemize}
 	\end{block}
 \end{frame}
