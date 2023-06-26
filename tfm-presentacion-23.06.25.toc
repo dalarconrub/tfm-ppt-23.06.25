@@ -7,8 +7,8 @@
 \beamer@subsectionintoc {2}{2}{Operativización de los objetivos principales}{6}{0}{2}
 \beamer@subsectionintoc {2}{3}{Atributos}{12}{0}{2}
 \beamer@sectionintoc {3}{Subobjetivos e hipótesis}{14}{0}{3}
-\beamer@sectionintoc {4}{Procesamiento de datos y técnicas de aprendizaje supervisado}{16}{0}{4}
-\beamer@sectionintoc {5}{Resultados}{17}{0}{5}
+\beamer@sectionintoc {4}{Procesamiento de datos y técnicas de aprendizaje supervisado}{15}{0}{4}
+\beamer@sectionintoc {5}{Resultados Clave}{17}{0}{5}
 \beamer@subsectionintoc {5}{1}{ Objetivo 1 - Rangos Tempolares}{19}{0}{5}
 \beamer@subsectionintoc {5}{2}{ Objetivos 2 y 3: Tipo de bloques temporales}{21}{0}{5}
 \beamer@subsectionintoc {5}{3}{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}{23}{0}{5}

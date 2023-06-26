@@ -151,11 +151,11 @@ Director: Antonio Rodríguez Anaya
 	\begin{block}{Objetivo Principal: Evaluar la eficacia del análisis de redes sociales dinámicas en la predicción del abandono estudiantil en una asignatura.}
 		\begin{itemize}
 
-			\item  Objetivo 1: Analizar la eficacia de las predicciones basadas en el análisis de redes sociales, considerando diferentes rangos de tiempo desde el inicio del curso.
+			\item  \textbf{Objetivo 1}: Analizar la eficacia de las predicciones basadas en el análisis de redes sociales, considerando diferentes rangos de tiempo desde el inicio del curso.
 					
-			\item  Objetivo 2: Evaluar la eficacia del análisis de las redes temporales al subdividir el rango temporal en bloques de días seriados secuencialmente.
+			\item  \textbf{Objetivo 2}: Evaluar la eficacia del análisis de las redes temporales al subdividir el rango temporal en bloques de días seriados secuencialmente.
 			
-			\item  	Objetivo 3: Evaluar la eficacia del análisis de las redes temporales dinámicas al analizar bloques seriados dinámicamente o encadenados.
+			\item  	\textbf{Objetivo 3}: Evaluar la eficacia del análisis de las redes temporales dinámicas al analizar bloques seriados dinámicamente o encadenados.
 					
 		\end{itemize}. 
 	\end{block}
@@ -236,8 +236,8 @@ Director: Antonio Rodríguez Anaya
 \begin{frame}
 	\frametitle{Subdivisión en bloques dinámicos o encadenados}
 	\begin{itemize}
-		\item La subdivisión en bloques secuenciales permite analizar las interacciones y dinámicas dentro de cada bloque. La subdivisión en bloques dinámicos o encadenados establece una relación de continuidad entre los bloques, capturando la evolución y los cambios a largo plazo \citep{Mahmoud_2021,  tang2010a}.
-		\item En la subdivisión en bloques encadenados, cada bloque temporal se superpone con el bloque anterior y el bloque siguiente. 
+		\item La subdivisión en \textbf{bloques secuenciales} permite analizar las interacciones y dinámicas dentro de cada bloque. La subdivisión en bloques dinámicos o encadenados establece una relación de continuidad entre los bloques, capturando la evolución y los cambios a largo plazo \citep{Mahmoud_2021,  tang2010a}.
+		\item En la subdivisión en \textbf{bloques encadenados}, cada bloque temporal se superpone con el bloque anterior y el bloque siguiente. 
 		\item Esto significa que se comparten nodos y conexiones entre bloques adyacentes, lo que permite capturar la continuidad y los cambios graduales en la red a lo largo del tiempo.
 	\end{itemize}	
 \end{frame}
@@ -297,20 +297,20 @@ Director: Antonio Rodríguez Anaya
 	\frametitle{Medidas de Sentimiento y Emoción}
 	\begin{block}{Sentimiento}
 		\begin{itemize}
-			\item Métrica utilizada para evaluar el tono emocional transmitido en los mensajes de texto. Asigna un valor numérico entre 0 y 1 representando la probabilidad de que el texto sea "positivo".
+			\item Métrica utilizada para evaluar el \textbf{tono emocional} transmitido en los mensajes de texto. Asigna un valor numérico entre 0 y 1 representando la probabilidad de que el texto sea "positivo".
 		\end{itemize}
 	\end{block}
 	
 	\begin{block}{Russel Valence y Russel Arousal}
 		\begin{itemize}
-			\item Russel Valence: Métrica que evalúa la carga emocional o la valencia de un texto.
-			\item Russel Arousal: Métrica que evalúa el nivel de excitación o activación emocional transmitido por un texto.
+			\item \textbf{Russel Valence}: Métrica que evalúa la carga emocional o la valencia de un texto.
+			\item \textbf{Russel Arousal}: Métrica que evalúa el nivel de excitación o activación emocional transmitido por un texto.
 		\end{itemize}
 	\end{block}
 	
 	\begin{block}{Emoción}
 		\begin{itemize}
-			\item Utiliza una región de Russel para clasificar el texto en categorías emocionales como neutro, relajado, feliz, triste o enfadado.
+			\item Utiliza una \textbf{región de Russel} para clasificar el texto en categorías emocionales como neutro, relajado, feliz, triste o enfadado.
 		\end{itemize}
 	\end{block}
 	
@@ -322,18 +322,19 @@ Director: Antonio Rodríguez Anaya
 \begin{frame}
 	\frametitle{Subbjetivos e hipótesis: Teorías del Aprendizaje Social}
 	\begin{block}{Subobjetivo 1: Teoría del capital social de la red}
-		Hipótesis A: Las medidas de centralidad ponderadas serán más capaces de capturar la importancia de las interacciones entre los nodos y predecir el abandono estudiantil \citep{wasko_why_2005, barrat2004a}.
+		\textbf{Hipótesis A}: Las medidas de centralidad ponderadas serán más capaces de capturar la importancia de las interacciones entre los nodos y predecir el abandono estudiantil \citep{wasko_why_2005, barrat2004a}.
 		
 	\end{block}
 	\begin{block}{Subobjetivo 2: Teoría de la estructura social de la red}
-		Hipótesis B: Los modelos de medidas de centralidad globales serán más eficaces para predecir el abandono estudiantil en comparación con los modelos que solo consideran medidas locales \citep{krause_social_2007, abbasi2013a, Mahmoud_2021}.
+		\textbf{Hipótesis B}: Los modelos de medidas de centralidad globales serán más eficaces para predecir el abandono estudiantil en comparación con los modelos que solo consideran medidas locales \citep{krause_social_2007, abbasi2013a, Mahmoud_2021}.
 		
 	\end{block}
 	\begin{block}{Subobjetivo 3: Teoría del balance social de la red}
-		Hipótesis C: Las medidas de centralidad junto a las medidas de sentimiento expresadas en los mensajes podrán predecir el abandono estudiantil de manera más precisa \citep{kim2012a, rawlings_structural_2017, marcos_learning_2019}.
+		\textbf{Hipótesis C}: Las medidas de centralidad junto a las medidas de sentimiento expresadas en los mensajes podrán predecir el abandono estudiantil de manera más precisa \citep{kim2012a, rawlings_structural_2017, marcos_learning_2019}.
 	\end{block}
 \end{frame}
 
+\section{Procesamiento de datos y técnicas  de aprendizaje supervisado}
 %========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
 	\frametitle{Algoritmos de aprendizaje y métricas de rendimiento}
@@ -391,18 +392,18 @@ Director: Antonio Rodríguez Anaya
 %\end{frame}
 
 
-\section{Procesamiento de datos y técnicas  de aprendizaje supervisado}
+
 %========= Diapositiva con ítems resaltados con colores:
 
 \begin{frame}
 	\frametitle{Índices de evaluación de las redes sociales dinámicas en la predicción}
 	\begin{block}{Evaluamos las teorías e hipótesis propuestas utilizando índices construidos específicos.}
 	\begin{itemize}
-		\item Índice de amplitud o cobertura de la información: mide la proporción del tiempo total de la asignatura cubierta por cada rango de tiempo analizado en los foros de los estudiantes.
+		\item \textbf{Índice de amplitud o cobertura de la información}: mide la proporción del tiempo total de la asignatura cubierta por cada rango de tiempo analizado en los foros de los estudiantes.
 		%Mide la capacidad del algoritmo para capturar la diversidad de interacciones en la red social dinámica.
-		\item Índice de unidad de información: evalúa el grado de subdivisión en bloques que se utiliza para obtener las medidas de posición de los estudiantes y de expresión de sentimientos.
+		\item \textbf{Índice de unidad de información}: evalúa el grado de subdivisión en bloques que se utiliza para obtener las medidas de posición de los estudiantes y de expresión de sentimientos.
 		%Evalúa la capacidad del algoritmo para identificar grupos o comunidades dentro de la red social dinámica.
-		\item Índice de cantidad de información: es una medida que combina el grado de subdivisión en bloques y la proporción de cobertura temporal en el análisis de redes sociales.
+		\item \textbf{Índice de cantidad de información}: es una medida que combina el grado de subdivisión en bloques y la proporción de cobertura temporal en el análisis de redes sociales.
 		%Cuantifica la cantidad de información relevante proporcionada por el algoritmo sobre las interacciones en la red social dinámica.
 	\end{itemize}
 	\end{block}
@@ -410,7 +411,7 @@ Director: Antonio Rodríguez Anaya
 
 
 
-\section{Resultados}
+\section{Resultados Clave}
 
 %========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
@@ -614,7 +615,7 @@ La subdivisión en bloques encadenados muestra una eficacia superior en comparac
 \begin{frame}
 	\frametitle{Objetivos 2 y 3: Analizar la eficacia de las predicciones utilizando distintos tipos de bloques temporales}
 \begin{block}{Tipos de subdivisión en bloques temporales: secuenciales vs encadenados.}
-La subdivisión en bloques encadenados muestra una eficacia superior en comparación con la subdivisión en bloques secuenciales.
+La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es el rango de tiempo y el tamaño de la red.
 	\end{block}
 	
 
@@ -640,10 +641,6 @@ La subdivisión en bloques encadenados muestra una eficacia superior en comparac
 \end{columns}
 	
 \end{frame}
-
-
-
-
 
 
 \subsection{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}
@@ -682,7 +679,7 @@ La subdivisión en bloques encadenados muestra una eficacia superior en comparac
 \begin{frame}
 	\frametitle{Subobjetivo 1: Analizar la eficacia de las predicciones utilizando medidas centrales ponderadas (con pesos)}
 \begin{block}{Hipótesis del Capital Social Cognitivo}
-	No se observan diferencias entre medidas de centralidad ponderadas y sin pesos para predecir el abandono de la asignatura.
+Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone de una cobertura de información media, 40-60\%.
 \end{block}
 		\begin{columns}[c]
 	% create the column with the first image, that occupies
@@ -752,7 +749,7 @@ La subdivisión en bloques encadenados muestra una eficacia superior en comparac
 \begin{frame}
 	\frametitle{Subobjetivo 2: Analizar la eficacia de las predicciones utilizando medidas centrales  locales vs globales (híbridas)}
 \begin{block}{Hipótesis de la Estructura Social Cognitivo }
-	Las medidas de centralidad globales que evalúan la posición en la red de los nodos vecinos son ligeramente más eficaces para predecir el abandono de la asignatura.
+	Las medidas de centralidad globales tienden a ser más beneficioso cuando se dispone de una mayor cantidad de información.
 \end{block}
 			\begin{columns}[c]
 		% create the column with the first image, that occupies
@@ -791,7 +788,7 @@ La subdivisión en bloques encadenados muestra una eficacia superior en comparac
 \begin{frame}
 	\frametitle{Subobjetivo 3: Analizar la eficacia de las predicciones utilizando medidas centrales y de sentimentos.}
 	\begin{block}{Hipótesis del Balance Social Cognitivo}
-			El uso conjunto de medidas emocionales y de centralidad mejora la capacidad predictiva del modelo.
+	El uso conjunto de medidas emocionales y de centralidad mejora la capacidad predictiva del modelo.
 	\end{block}
 
 
@@ -824,7 +821,7 @@ La subdivisión en bloques encadenados muestra una eficacia superior en comparac
 \begin{frame}
 	\frametitle{Subobjetivo 3: Analizar la eficacia de las predicciones utilizando medidas centrales y de sentimentos.}
 \begin{block}{Hipótesis del Balance Social Cognitivo}
-	El uso conjunto de medidas emocionales y de centralidad mejora la capacidad predictiva del modelo.
+	Las medidas de centralidad y de sentimiento conjuntamente pueden ser mejores para la predicción cuanto mayor cantidad de información se tiene disponible.
 \end{block}
 	
 	
