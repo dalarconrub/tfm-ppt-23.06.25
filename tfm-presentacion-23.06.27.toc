@@ -2,13 +2,13 @@
 \beamer@sectionintoc {1}{Introducción}{3}{0}{1}
 \beamer@sectionintoc {2}{Objetivos}{5}{0}{2}
 \beamer@subsectionintoc {2}{1}{Operativización de los objetivos principales}{6}{0}{2}
-\beamer@subsectionintoc {2}{2}{Atributos}{12}{0}{2}
-\beamer@subsectionintoc {2}{3}{Subobjetivos e hipótesis}{14}{0}{2}
+\beamer@subsectionintoc {2}{2}{Subobjetivos e hipótesis}{12}{0}{2}
+\beamer@subsectionintoc {2}{3}{Atributos}{13}{0}{2}
 \beamer@sectionintoc {3}{Procesamiento de datos y técnicas de aprendizaje supervisado}{15}{0}{3}
 \beamer@sectionintoc {4}{Resultados Clave}{17}{0}{4}
 \beamer@subsectionintoc {4}{1}{ Objetivo 1 - Rangos Temporales}{19}{0}{4}
 \beamer@subsectionintoc {4}{2}{ Objetivos 2 y 3: Tipo de bloques temporales}{22}{0}{4}
 \beamer@subsectionintoc {4}{3}{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}{25}{0}{4}
-\beamer@subsectionintoc {4}{4}{Subobjetivo 2: Hipótesis del Esquema Social Cognitivo}{27}{0}{4}
-\beamer@subsectionintoc {4}{5}{Subobjetivo 3: Hipótesis del Balance Social Cognitivo}{29}{0}{4}
-\beamer@sectionintoc {5}{Conclusiones}{31}{0}{5}
+\beamer@subsectionintoc {4}{4}{Subobjetivo 2: Hipótesis del Esquema Social Cognitivo}{28}{0}{4}
+\beamer@subsectionintoc {4}{5}{Subobjetivo 3: Hipótesis del Balance Social Cognitivo}{31}{0}{4}
+\beamer@sectionintoc {5}{Conclusiones}{34}{0}{5}

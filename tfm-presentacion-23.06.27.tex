@@ -177,7 +177,7 @@ Director: Antonio Rodríguez Anaya
 			120 días & 100\% \\
 			\bottomrule
 		\end{tabular}
-		\caption{Porcentaje de cobertura por rango de tiempo.}
+		\caption{Tabla 1.1. Porcentaje de cobertura por rango de tiempo.}
 	\end{table}
 \end{frame}
 
@@ -187,7 +187,7 @@ Director: Antonio Rodríguez Anaya
 	\begin{figure}
 		\centering
 		\includegraphics[width=0.7\linewidth]{figs/fig1}
-		\caption{Evaluación de la eficacia de los diferentes rangos de tiempo en la predicción del abandono}
+		\caption{Figura 1.2. Rangos de tiempo utilizados en la predicción del abandono}
 		\label{fig:fig1}
 	\end{figure}
 \end{frame}
@@ -209,7 +209,7 @@ Director: Antonio Rodríguez Anaya
 			120 días & 5 $\times$ 24, 10 $\times$ 12, 15 $\times$ 8, 20 $\times$ 6, 30 $\times$ 4, 40 $\times$ 3, 60 $\times$ 2 \\
 			\bottomrule
 		\end{tabular}
-		\caption{Opciones de subdivisión en bloques para cada rango temporal.}
+		\caption{Tabla 1.2. Subdivisión en bloques para cada rango temporal.}
 		
 		\label{tab:subdivision-bloques1}
 	\end{table}
@@ -222,8 +222,8 @@ Director: Antonio Rodríguez Anaya
 	\frametitle{Subdivisión en bloques seriados secuencialmente}
 	\begin{figure}
 		\centering
-		\includegraphics[width=0.7\linewidth]{figs/imagen20}
-		\caption{Subdivisión del rango de tiempo en bloques seriados secuencialmente}
+		\includegraphics[width=0.7\linewidth]{figs/imagen20t}
+		\caption{Figura 1.3. Subdivisión del rango de tiempo en bloques seriados secuencialmente}
 		\label{fig:imagen320}
 	\end{figure}
 	
@@ -245,16 +245,30 @@ Director: Antonio Rodríguez Anaya
 	\frametitle{Subdivisión en bloques dinámicos o encadenados}
 	\begin{figure}[H]
 		\centering
-		\includegraphics[width=0.7\linewidth]{figs/imagen21}
-		\caption{Subdivisión del rango de tiempo en bloques seriados dinámicamente (encadenados)}
-		\label{fig:imagen321}
+		\includegraphics[width=0.7\linewidth]{figs/imagen21t}
+		\caption{Figura 1.4. Subdivisión del rango de tiempo en bloques seriados dinámicamente (encadenados)}
 	\end{figure}
 	
 \end{frame}
 
 
 
-
+\subsection{Subobjetivos e hipótesis}
+%========= Diapositiva con ítems resaltados con colores:
+\begin{frame}
+	\frametitle{Subbjetivos e hipótesis: Teorías del Aprendizaje Social}
+	\begin{block}{Subobjetivo 1: Teoría del capital social de la red}
+		\textbf{Hipótesis A}: Las medidas de centralidad ponderadas serán más capaces de capturar la importancia de las interacciones entre los nodos y predecir el abandono estudiantil \citep{wasko_why_2005, barrat2004a}.
+		
+	\end{block}
+	\begin{block}{Subobjetivo 2: Teoría de la estructura social de la red}
+		\textbf{Hipótesis B}: Los modelos de medidas de centralidad globales serán más eficaces para predecir el abandono estudiantil en comparación con los modelos que solo consideran medidas locales \citep{krause_social_2007, abbasi2013a, Mahmoud_2021}.
+		
+	\end{block}
+	\begin{block}{Subobjetivo 3: Teoría del balance social de la red}
+		\textbf{Hipótesis C}: Las medidas de centralidad junto a las medidas de sentimiento expresadas en los mensajes podrán predecir el abandono estudiantil de manera más precisa \citep{kim2012a, rawlings_structural_2017, marcos_learning_2019}.
+	\end{block}
+\end{frame}
 
 \subsection{Atributos}
 
@@ -315,22 +329,7 @@ Director: Antonio Rodríguez Anaya
 \end{frame}
 
 
-\subsection{Subobjetivos e hipótesis}
-%========= Diapositiva con ítems resaltados con colores:
-\begin{frame}
-	\frametitle{Subbjetivos e hipótesis: Teorías del Aprendizaje Social}
-	\begin{block}{Subobjetivo 1: Teoría del capital social de la red}
-		\textbf{Hipótesis A}: Las medidas de centralidad ponderadas serán más capaces de capturar la importancia de las interacciones entre los nodos y predecir el abandono estudiantil \citep{wasko_why_2005, barrat2004a}.
-		
-	\end{block}
-	\begin{block}{Subobjetivo 2: Teoría de la estructura social de la red}
-		\textbf{Hipótesis B}: Los modelos de medidas de centralidad globales serán más eficaces para predecir el abandono estudiantil en comparación con los modelos que solo consideran medidas locales \citep{krause_social_2007, abbasi2013a, Mahmoud_2021}.
-		
-	\end{block}
-	\begin{block}{Subobjetivo 3: Teoría del balance social de la red}
-		\textbf{Hipótesis C}: Las medidas de centralidad junto a las medidas de sentimiento expresadas en los mensajes podrán predecir el abandono estudiantil de manera más precisa \citep{kim2012a, rawlings_structural_2017, marcos_learning_2019}.
-	\end{block}
-\end{frame}
+
 
 \section{Procesamiento de datos y técnicas  de aprendizaje supervisado}
 %========= Diapositiva con ítems resaltados con colores:
@@ -418,7 +417,7 @@ Director: Antonio Rodríguez Anaya
 	\begin{figure}[H]
 		\centering
 		\includegraphics[width=0.9\linewidth]{figs/imagen23}
-		\caption{Resumen de teorías, hipótesis e índices}
+		\caption{Figura 1.5. Resumen de teorías, hipótesis e índices}
 		\label{fig:imagen23}
 	\end{figure}
 \end{frame}
@@ -429,7 +428,7 @@ Director: Antonio Rodríguez Anaya
 	\begin{figure}[H]
 		\centering
 		\includegraphics[width=0.5\linewidth]{figs/imagen32}
-		\caption{Modelos predictivos por combinación de factores.}
+		\caption{Figura 1.6. Modelos predictivos por combinación de factores.}
 		\label{fig:imagen32}
 	\end{figure}
 \end{frame}
@@ -441,8 +440,38 @@ Director: Antonio Rodríguez Anaya
 %%========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
 	\frametitle{Objetivo 1: Analizar la eficacia de las predicciones utilizando distintos rangos de tiempo}
+	\begin{block}{Rangos de tiempo (todos los tipos de subdivisión temporal).} 
+		Con un rango de \textcolor{blue}{60} o \textcolor{blue}{90} días se obtienen predicciones precisas del abandono.
+		
+	\end{block}
+	\begin{columns}[c]
+		% create the column with the first image, that occupies
+		% half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=1\textwidth]{figs/cap6/figura_1}
+				\caption{Figura 7.1. Máximo Accuracy por rango temporal}
+			\end{figure}      
+		\end{column}
+		% create the column with the second image, that also
+		% occupies half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.8\textwidth]{figs/cap7/figura_1}
+				\caption{Figura 9.1. Distribución de Accuracy por rango temporal}
+			\end{figure}
+		\end{column}
+	\end{columns}
+	
+\end{frame}
+%%========= Diapositiva con ítems resaltados con colores:
+\begin{frame}
+	\frametitle{Objetivo 1: Analizar la eficacia de las predicciones utilizando distintos rangos de tiempo}
 		\begin{block}{Rangos de tiempo (todos los tipos de subdivisión temporal).} 
-			 A medida que aumenta el porcentaje de cobertura temporal, la eficacia de todos los tipos de algoritmos también incrementa.
+	A medida que aumenta el porcentaje de \textcolor{blue}{cobertura temporal}, la \textcolor{red}{eficacia} de todos los tipos de algoritmos también \textcolor{blue}{incrementa}.
+
 	\end{block}
 	\begin{columns}[c]
 		% create the column with the first image, that occupies
@@ -451,7 +480,7 @@ Director: Antonio Rodríguez Anaya
 			\begin{figure}
 				\centering
 				\includegraphics[width=0.8\textwidth]{figs/cap7/figura_19}
-				\caption{Accuracy por rangos temporales}
+				\caption{Figura 9.3. Eficacia de los algoritmos por rangos temporales}
 			\end{figure}      
 		\end{column}
 		% create the column with the second image, that also
@@ -460,7 +489,7 @@ Director: Antonio Rodríguez Anaya
 			\begin{figure}
 				\centering
 				\includegraphics[width=1\textwidth]{figs/cap7/figura_14}
-				\caption{Índice de amplitud de la información}
+				\caption{Figura 9.5. Índice de amplitud de la información}
 			\end{figure}
 		\end{column}
 	\end{columns}
@@ -471,7 +500,8 @@ Director: Antonio Rodríguez Anaya
 \begin{frame}
 	\frametitle{Objetivo 1: Analizar la eficacia de las predicciones utilizando distintos rangos de tiempo}
 \begin{block}{Rangos de tiempo (todos los tipos de subdivisión temporal).} 
-		El punto óptimo de eficacia en la predicción se encuentra con valores previos al máximo nivel de unidad y cantidad de información. 
+	El \textcolor{red}{punto óptimo} de eficacia en la predicción se encuentra con valores \textcolor{blue}{previos al máximo nivel de unidad} y \textcolor{blue}{cantidad de información}.
+
 	\end{block}
 	\begin{columns}[c]
 		% create the column with the first image, that occupies
@@ -480,7 +510,7 @@ Director: Antonio Rodríguez Anaya
 			\begin{figure}
 				\centering
 				\includegraphics[width=1\textwidth]{figs/cap7/figura_12}
-				\caption{Índice de unidad de información}
+				\caption{Figura 9.6. Índice de unidad de información}
 			\end{figure}      
 		\end{column}
 		% create the column with the second image, that also
@@ -489,7 +519,7 @@ Director: Antonio Rodríguez Anaya
 			\begin{figure}
 				\centering
 				\includegraphics[width=1\textwidth]{figs/cap7/figura_13}
-				\caption{Índice de cantidad de información}
+				\caption{Figura 9.7. Índice de cantidad de información}
 			\end{figure}
 		\end{column}
 	\end{columns}
@@ -498,34 +528,6 @@ Director: Antonio Rodríguez Anaya
 \end{frame}
 
 
-%%========= Diapositiva con ítems resaltados con colores:
-\begin{frame}
-	\frametitle{Objetivo 1: Analizar la eficacia de las predicciones utilizando distintos rangos de tiempo}
-	\begin{block}{Rangos de tiempo (todos los tipos de subdivisión temporal).} 
-	Con un rango de 60 o 90 días se obtienen valores precisos de predicción del abandono. 
-	\end{block}
-	\begin{columns}[c]
-		% create the column with the first image, that occupies
-		% half of the slide
-		\begin{column}{.5\textwidth}
-			\begin{figure}
-				\centering
-				\includegraphics[width=1\textwidth]{figs/cap6/figura_1}
-				\caption{Máximo Accuracy por rango temporal}
-			\end{figure}      
-		\end{column}
-		% create the column with the second image, that also
-		% occupies half of the slide
-		\begin{column}{.5\textwidth}
-			\begin{figure}
-				\centering
-				\includegraphics[width=0.8\textwidth]{figs/cap7/figura_1}
-				\caption{Distribución de Accuracy por rango temporal}
-			\end{figure}
-		\end{column}
-	\end{columns}
-	
-\end{frame}
 
 %%%========= Diapositiva con ítems resaltados con colores:
 %\begin{frame}
@@ -608,11 +610,44 @@ Director: Antonio Rodríguez Anaya
 
 
 \subsection{ Objetivos 2 y 3: Tipo de bloques temporales}
+
+%========= Diapositiva con ítems resaltados con colores:
+\begin{frame}
+	\frametitle{Objetivos 2 y 3: Analizar la eficacia de las predicciones utilizando distintos tipos de bloques temporales}
+	\begin{block}{Tipos de subdivisión en bloques temporales: secuenciales vs encadenados.}
+		La precisión de los algoritmos con bloques \textcolor{red}{encadenados} es ligeramente superior, especialmente en los rangos de tiempo intermedios de \textcolor{blue}{60} y \textcolor{blue}{90} días.
+	\end{block}
+	
+	
+	\begin{columns}[c]
+		% create the column with the first image, that occupies
+		% half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.9\textwidth]{figs/cap7/figura_24}
+				\caption{Figura 9.10. Eficacia de los algoritmos por tipos de bloques}
+			\end{figure}      
+		\end{column}
+		% create the column with the second image, that also
+		% occupies half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.9\textwidth]{figs/cap7/figura_6}
+				\caption{Figura 9.8. Eficacia por rangos de tiempo y tipos de bloques.}
+			\end{figure}
+		\end{column}
+	\end{columns}
+	
+\end{frame}
+
 %%========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
 	\frametitle{Objetivos 2 y 3: Analizar la eficacia de las predicciones utilizando distintos tipos de bloques temporales}
 	\begin{block}{Tipos de subdivisión en bloques temporales: secuenciales vs encadenados.}
-La subdivisión en bloques encadenados muestra una eficacia superior en comparación con la subdivisión en bloques secuenciales.
+	La subdivisión en bloques \textcolor{blue}{encadenados} muestra una \textcolor{red}{eficacia superior} en comparación con la subdivisión en bloques \textcolor{blue}{secuenciales}.
+
 	\end{block}
 	
 	\begin{columns}[c]
@@ -622,7 +657,7 @@ La subdivisión en bloques encadenados muestra una eficacia superior en comparac
 		\begin{figure}
 			\centering
 			\includegraphics[width=1\textwidth]{figs/cap7/figura_15}
-			\caption{Índice de amplitud de información}
+			\caption{Figura 9.12. Índice de amplitud de información}
 		\end{figure}      
 	\end{column}
 	% create the column with the second image, that also
@@ -631,7 +666,7 @@ La subdivisión en bloques encadenados muestra una eficacia superior en comparac
 		\begin{figure}
 			\centering
 			\includegraphics[width=1\textwidth]{figs/cap7/figura_16}
-			\caption{Índice de unidad de información}
+			\caption{Figura 9.13. Índice de unidad de información}
 		\end{figure}
 	\end{column}
 \end{columns}
@@ -643,7 +678,7 @@ La subdivisión en bloques encadenados muestra una eficacia superior en comparac
 \begin{frame}
 	\frametitle{Objetivos 2 y 3: Analizar la eficacia de las predicciones utilizando distintos tipos de bloques temporales}
 \begin{block}{Tipos de subdivisión en bloques temporales: secuenciales vs encadenados.}
-La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es el rango de tiempo y el tamaño de la red.
+	La subdivisión en bloques \textcolor{blue}{encadenados} aumenta la precisión (\textcolor{red}{Accuracy}) a medida que aumenta el \textcolor{blue}{rango de tiempo} y el tamaño de \textcolor{blue}{unidad} de la red.
 	\end{block}
 	
 
@@ -654,7 +689,7 @@ La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es e
 		\begin{figure}
 			\centering
 			\includegraphics[width=1\textwidth]{figs/cap7/figura_17}
-\caption{Índice de cantidad de información}
+\caption{Figura 9.14. Índice de cantidad de información}
 		\end{figure}      
 	\end{column}
 	% create the column with the second image, that also
@@ -663,7 +698,7 @@ La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es e
 		\begin{figure}
 			\centering
 			\includegraphics[width=0.6\textwidth]{figs/cap7/figura_18}
-			\caption{Cobertura y unidad de información.}
+			\caption{Figura 9.15. Cobertura y unidad de información}
 		\end{figure}
 	\end{column}
 \end{columns}
@@ -671,23 +706,27 @@ La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es e
 \end{frame}
 
 
+
+
+
+
+\subsection{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}
+
+
 %========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
-	\frametitle{Objetivos 2 y 3: Analizar la eficacia de las predicciones utilizando distintos tipos de bloques temporales}
-	\begin{block}{Tipos de subdivisión en bloques temporales: secuenciales vs encadenados.}
-		La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es el rango de tiempo y el tamaño de la red.
+	\frametitle{Subobjetivo 1: Analizar la eficacia de las predicciones utilizando medidas centrales ponderadas (con pesos)}
+	\begin{block}{Hipótesis del Capital Social Cognitivo}
+		Las medidas de centralidad con \textcolor{blue}{pesos} tienden a ser igualmente efectivas para todos los algoritmos y ligeramente superiores en rangos de tiempo superiores al 50\% (\textcolor{red}{entre 60 y 120 días}).
 	\end{block}
-	
-	
 	\begin{columns}[c]
 		% create the column with the first image, that occupies
 		% half of the slide
 		\begin{column}{.5\textwidth}
 			\begin{figure}
 				\centering
-				\includegraphics[width=1\textwidth]{figs/cap7/figura_17}
-				\caption{Índice de cantidad de información}
-				\label{Figura 9.8}
+				\includegraphics[width=0.8\textwidth]{figs/cap7/figura_29}
+				\caption{Figura 10.1.  Eficacia por rangos de tiempo y tipos de medidas (ponderadas)}
 			\end{figure}      
 		\end{column}
 		% create the column with the second image, that also
@@ -695,8 +734,9 @@ La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es e
 		\begin{column}{.5\textwidth}
 			\begin{figure}
 				\centering
-				\includegraphics[width=0.6\textwidth]{figs/cap7/figura_18}
-				\caption{Cobertura y unidad de información.}
+				\includegraphics[width=0.8\textwidth]{figs/cap7/figura_73}
+				\caption{Figura 7.65. Eficacia de los algoritmos por tipos de medidas (ponderadas)}
+				
 			\end{figure}
 		\end{column}
 	\end{columns}
@@ -704,14 +744,11 @@ La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es e
 \end{frame}
 
 
-
-
-\subsection{Subobjetivo 1: Hipótesis del Capital Social Cognitivo}
 %%========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
 	\frametitle{Subobjetivo 1: Analizar la eficacia de las predicciones utilizando medidas centrales ponderadas (con pesos)}
 \begin{block}{Hipótesis del Capital Social Cognitivo}
-	No se observan diferencias entre medidas de centralidad ponderadas y sin pesos para predecir el abandono de la asignatura.
+No se observan diferencias entre medidas de centralidad \textcolor{blue}{sin pesos} y  \textcolor{red}{ponderadas} para predecir el abandono de la asignatura.
 \end{block}
 
 		\begin{columns}[c]
@@ -721,7 +758,7 @@ La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es e
 			\begin{figure}
 				\centering
 				\includegraphics[width=1\textwidth]{figs/cap7/figura_34}
-\caption{Índice de amplitud de información}
+				\caption{Figura 10.3. Índice de amplitud de información}
 			\end{figure}      
 		\end{column}
 		% create the column with the second image, that also
@@ -730,7 +767,7 @@ La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es e
 			\begin{figure}
 				\centering
 			\includegraphics[width=1\textwidth]{figs/cap7/figura_35}
-\caption{Índice de unidad de información}
+				\caption{Figura 10.4. Índice de unidad de información}
 			\end{figure}
 		\end{column}
 		\end{columns}
@@ -742,7 +779,7 @@ La subdivisión en bloques encadenados es superior en Accuracy cuanto mayor es e
 \begin{frame}
 	\frametitle{Subobjetivo 1: Analizar la eficacia de las predicciones utilizando medidas centrales ponderadas (con pesos)}
 \begin{block}{Hipótesis del Capital Social Cognitivo}
-Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone de una cobertura de información media, 40-60\%.
+Las medidas de centralidad con \textcolor{blue}{pesos} tienden a ser más precisas cuando se dispone de una cantidad de información superior al \textcolor{red}{50\%}.
 \end{block}
 		\begin{columns}[c]
 	% create the column with the first image, that occupies
@@ -751,7 +788,7 @@ Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone
 		\begin{figure}
 			\centering
 			\includegraphics[width=1\textwidth]{figs/cap7/figura_36}
-\caption{Índice de cantidad de información}
+\caption{Figura 10.5. Índice de cantidad de información}
 		\end{figure}      
 	\end{column}
 	% create the column with the second image, that also
@@ -760,68 +797,92 @@ Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone
 		\begin{figure}
 			\centering
 			\includegraphics[width=0.6\textwidth]{figs/cap7/figura_37}
-			\caption{Cobertura y unidad de información.}
+			\caption{Figura 10.6. Cobertura y unidad de información}
 		\end{figure}
 	\end{column}
 \end{columns}
-
-	
 	
 \end{frame}
-
-
-
-
-
 
 
 
 \subsection{Subobjetivo 2: Hipótesis del Esquema Social Cognitivo}
-%%========= Diapositiva con ítems resaltados con colores:
-\begin{frame}
-	\frametitle{Subobjetivo 2: Analizar la eficacia de las predicciones utilizando medidas centrales  locales vs globales (híbridas)}
-\begin{block}{Hipótesis de la Estructura Social Cognitivo }
-    Las medidas de centralidad globales que evalúan la posición en la red de los nodos vecinos son ligeramente más eficaces para predecir el abandono de la asignatura.
-	\end{block}
-
-		\begin{columns}[c]
-	% create the column with the first image, that occupies
-	% half of the slide
-	\begin{column}{.5\textwidth}
-		\begin{figure}
-			\centering
-			\includegraphics[width=1\textwidth]{figs/cap7/figura_43}
-\caption{Índice de amplitud de información}
-		\end{figure}      
-	\end{column}
-	% create the column with the second image, that also
-	% occupies half of the slide
-	\begin{column}{.5\textwidth}
-		\begin{figure}
-			\centering
-				\includegraphics[width=1\textwidth]{figs/cap7/figura_44}
-\caption{Índice de unidad de información}
-		\end{figure}
-	\end{column}
-\end{columns}
-
-\end{frame}
 
 
 %========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
 	\frametitle{Subobjetivo 2: Analizar la eficacia de las predicciones utilizando medidas centrales  locales vs globales (híbridas)}
-\begin{block}{Hipótesis de la Estructura Social Cognitivo }
-	Las medidas de centralidad globales tienden a ser más beneficioso cuando se dispone de una mayor cantidad de información.
-\end{block}
-			\begin{columns}[c]
+	\begin{block}{Hipótesis de la Estructura Social Cognitivo }
+		Las medidas de centralidad \textcolor{blue}{globales} son igualmente precisas por tipo de algoritmos de aprendizaje supervisado, y ligeramente superiores a las \textcolor{blue}{locales} cuando el rango de tiempo es mayor.
+	\end{block}
+	\begin{columns}[c]
 		% create the column with the first image, that occupies
 		% half of the slide
 		\begin{column}{.5\textwidth}
 			\begin{figure}
 				\centering
-				\includegraphics[width=1\textwidth]{figs/cap7/figura_45}
-				\caption{Índice de unidad de información}
+				\includegraphics[width=0.8\textwidth]{figs/cap7/figura_38}
+				\caption{Figura 10.7. Eficacia por rangos de tiempo y tipos de medidas (híbridas)}
+			\end{figure}      
+		\end{column}
+		% create the column with the second image, that also
+		% occupies half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.8\textwidth]{figs/cap7/figura_90}
+				\caption{Figura 7.76. Eficacia de los algoritmos por tipos de medidas (híbridas)}
+			\end{figure}
+		\end{column}
+	\end{columns}
+\end{frame}
+
+
+
+%%========= Diapositiva con ítems resaltados con colores:
+\begin{frame}
+	\frametitle{Subobjetivo 2: Analizar la eficacia de las predicciones utilizando medidas centrales  locales vs globales (híbridas)}
+	\begin{block}{Hipótesis de la Estructura Social Cognitivo }
+Las medidas de centralidad \textcolor{blue}{globales} que evalúan la posición en la red de los nodos vecinos son ligeramente más eficaces para predecir el abandono de la asignatura.
+	\end{block}
+	
+	\begin{columns}[c]
+		% create the column with the first image, that occupies
+		% half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=1\textwidth]{figs/cap7/figura_43}
+				\caption{Figura 10.9. Índice de amplitud de información}
+			\end{figure}      
+		\end{column}
+		% create the column with the second image, that also
+		% occupies half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=1\textwidth]{figs/cap7/figura_44}
+				\caption{Figura 10.10. Índice de unidad de información}
+			\end{figure}
+		\end{column}
+	\end{columns}
+	
+\end{frame}
+
+%========= Diapositiva con ítems resaltados con colores:
+\begin{frame}
+	\frametitle{Subobjetivo 2: Analizar la eficacia de las predicciones utilizando medidas centrales  locales vs globales (híbridas)}
+\begin{block}{Hipótesis de la Estructura Social Cognitivo }
+Las medidas de centralidad \textcolor{blue}{globales} tienden a ser más beneficiosas cuando se dispone de una mayor  \textcolor{red}{cantidad} de información.
+\end{block}
+	\begin{columns}[c]
+		% create the column with the first image, that occupies
+		% half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.9\textwidth]{figs/cap7/figura_45}
+				\caption{Figura 10.11. Índice de cantidad de información}
 			\end{figure}      
 		\end{column}
 		% create the column with the second image, that also
@@ -830,13 +891,10 @@ Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone
 			\begin{figure}
 				\centering
 				\includegraphics[width=0.6\textwidth]{figs/cap7/figura_46}
-			\caption{Cobertura y unidad de información.}
+			\caption{Figura 10.12. Cobertura y unidad de información}
 			\end{figure}
 		\end{column}
 	\end{columns}
-	
-	
-	
 \end{frame}
 
 
@@ -844,17 +902,45 @@ Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone
 
 
 
-
-
 \subsection{Subobjetivo 3: Hipótesis del Balance Social Cognitivo}
+
+
+%========= Diapositiva con ítems resaltados con colores:
+\begin{frame}
+	\frametitle{Subobjetivo 3: Analizar la eficacia de las predicciones utilizando medidas centrales y de sentimentos.}
+	\begin{block}{Hipótesis del Balance Social Cognitivo}
+		La precisión utilizando medidas de \textcolor{blue}{centralidad} y de \textcolor{red}{sentimiento} conjuntamente es similar o superior con la mayoría de algoritmos de aprendizaje y mejor en los rangos de tiempo intermedios (\textcolor{blue}{50-75\%}).
+		
+	\end{block}	
+	\begin{columns}[c]
+		% create the column with the first image, that occupies
+		% half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.8\textwidth]{figs/cap7/figura_48}
+				\caption{Figura 10.13. Eficacia por rangos de tiempo y tipos de medidas (sentimiento)}
+			\end{figure}      
+		\end{column}
+		% create the column with the second image, that also
+		% occupies half of the slide
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.8\textwidth]{figs/cap7/figura_111}
+				\caption{Figura 7.90. Eficacia de los algoritmos por tipos de medidas (sentimiento)}
+			\end{figure}
+		\end{column}
+	\end{columns}	
+\end{frame}
+
 %%========= Diapositiva con ítems resaltados con colores:
 \begin{frame}
 	\frametitle{Subobjetivo 3: Analizar la eficacia de las predicciones utilizando medidas centrales y de sentimentos.}
 	\begin{block}{Hipótesis del Balance Social Cognitivo}
-	El uso conjunto de medidas emocionales y de centralidad mejora la capacidad predictiva del modelo.
+El uso conjunto de medidas \textcolor{red}{emocionales} y de \textcolor{blue}{centralidad} mejora la capacidad predictiva del modelo.
+
 	\end{block}
-
-
 			\begin{columns}[c]
 		% create the column with the first image, that occupies
 		% half of the slide
@@ -862,7 +948,7 @@ Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone
 			\begin{figure}
 				\centering
 				\includegraphics[width=1\textwidth]{figs/cap7/figura_53}
-\caption{Índice de amplitud de información}
+\caption{Figura 10.15. Índice de amplitud de información}
 			\end{figure}      
 		\end{column}
 		% create the column with the second image, that also
@@ -871,7 +957,7 @@ Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone
 			\begin{figure}
 				\centering
 \includegraphics[width=1\textwidth]{figs/cap7/figura_54}
-\caption{Índice de unidad de información}
+\caption{Figura 10.16. Índice de unidad de información}
 			\end{figure}
 		\end{column}
 	\end{columns}
@@ -884,10 +970,9 @@ Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone
 \begin{frame}
 	\frametitle{Subobjetivo 3: Analizar la eficacia de las predicciones utilizando medidas centrales y de sentimentos.}
 \begin{block}{Hipótesis del Balance Social Cognitivo}
-	Las medidas de centralidad y de sentimiento conjuntamente pueden ser mejores para la predicción cuanto mayor cantidad de información se tiene disponible.
-\end{block}
-	
-	
+Las medidas de \textcolor{blue}{centralidad} y de \textcolor{red}{sentimiento} conjuntamente pueden ser mejores para la predicción cuanto mayor \textcolor{blue}{cantidad} de información.
+
+\end{block}	
 	\begin{columns}[c]
 		% create the column with the first image, that occupies
 		% half of the slide
@@ -895,7 +980,7 @@ Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone
 			\begin{figure}
 				\centering
 				\includegraphics[width=1\textwidth]{figs/cap7/figura_55}
-\caption{Índice de cantidad de información}
+				\caption{Figura 10.17. Índice de cantidad de información}
 			\end{figure}      
 		\end{column}
 		% create the column with the second image, that also
@@ -904,14 +989,15 @@ Las medidas de centralidad con pesos pueden ser más efectivas cuando se dispone
 			\begin{figure}
 				\centering
 				\includegraphics[width=0.60\textwidth]{figs/cap7/figura_56}
-			\caption{Cobertura y unidad de información.}
+			\caption{Figura 10.18. Cobertura y unidad de información.}
 			\end{figure}
 		\end{column}
 	\end{columns}
 	
-	
-	
 \end{frame}
+
+
+
 
 
 
