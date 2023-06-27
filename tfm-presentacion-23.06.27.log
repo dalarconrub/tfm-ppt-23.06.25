@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.21)  27 JUN 2023 21:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.21)  28 JUN 2023 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1338,7 +1338,7 @@ Package pdftex.def Info: figs/imagen21t.png  used on input line 252.
 ] [16
 
 ]
-<figs/imagen23.png, id=416, 527.72156pt x 253.69781pt>
+<figs/imagen23.png, id=415, 527.72156pt x 253.69781pt>
 File: figs/imagen23.png Graphic file (type png)
 <use figs/imagen23.png>
 Package pdftex.def Info: figs/imagen23.png  used on input line 423.
@@ -1346,7 +1346,7 @@ Package pdftex.def Info: figs/imagen23.png  used on input line 423.
  [17
 
  <./figs/imagen23.png (PNG copy)>]
-<figs/imagen32.png, id=424, 395.97937pt x 493.845pt>
+<figs/imagen32.png, id=423, 395.97937pt x 493.845pt>
 File: figs/imagen32.png Graphic file (type png)
 <use figs/imagen32.png>
 Package pdftex.def Info: figs/imagen32.png  used on input line 434.
@@ -1358,12 +1358,12 @@ Overfull \vbox (29.44539pt too high) detected at line 434
 [18
 
  <./figs/imagen32.png (PNG copy)>]
-<figs/cap6/figura_1.png, id=445, 829.59938pt x 412.54124pt>
+<figs/cap6/figura_1.png, id=444, 829.59938pt x 412.54124pt>
 File: figs/cap6/figura_1.png Graphic file (type png)
 <use figs/cap6/figura_1.png>
 Package pdftex.def Info: figs/cap6/figura_1.png  used on input line 468.
 (pdftex.def)             Requested size: 171.14764pt x 85.10657pt.
-<figs/cap7/figura_1.png, id=446, 649.67719pt x 411.78844pt>
+<figs/cap7/figura_1.png, id=445, 649.67719pt x 411.78844pt>
 File: figs/cap7/figura_1.png Graphic file (type png)
 <use figs/cap7/figura_1.png>
 Package pdftex.def Info: figs/cap7/figura_1.png  used on input line 468.
@@ -1371,12 +1371,12 @@ Package pdftex.def Info: figs/cap7/figura_1.png  used on input line 468.
  [19
 
  <./figs/cap6/figura_1.png> <./figs/cap7/figura_1.png>]
-<figs/cap7/figura_19.png, id=470, 649.67719pt x 411.78844pt>
+<figs/cap7/figura_19.png, id=469, 649.67719pt x 411.78844pt>
 File: figs/cap7/figura_19.png Graphic file (type png)
 <use figs/cap7/figura_19.png>
 Package pdftex.def Info: figs/cap7/figura_19.png  used on input line 497.
 (pdftex.def)             Requested size: 136.91862pt x 86.77971pt.
-<figs/cap7/figura_14.png, id=471, 869.49844pt x 412.54124pt>
+<figs/cap7/figura_14.png, id=470, 869.49844pt x 412.54124pt>
 File: figs/cap7/figura_14.png Graphic file (type png)
 <use figs/cap7/figura_14.png>
 Package pdftex.def Info: figs/cap7/figura_14.png  used on input line 497.
@@ -1384,12 +1384,12 @@ Package pdftex.def Info: figs/cap7/figura_14.png  used on input line 497.
  [20
 
  <./figs/cap7/figura_19.png> <./figs/cap7/figura_14.png>]
-<figs/cap7/figura_12.png, id=491, 811.53188pt x 412.54124pt>
+<figs/cap7/figura_12.png, id=490, 811.53188pt x 412.54124pt>
 File: figs/cap7/figura_12.png Graphic file (type png)
 <use figs/cap7/figura_12.png>
 Package pdftex.def Info: figs/cap7/figura_12.png  used on input line 528.
 (pdftex.def)             Requested size: 171.14764pt x 87.00131pt.
-<figs/cap7/figura_13.png, id=492, 874.76813pt x 414.04688pt>
+<figs/cap7/figura_13.png, id=491, 874.76813pt x 414.04688pt>
 File: figs/cap7/figura_13.png Graphic file (type png)
 <use figs/cap7/figura_13.png>
 Package pdftex.def Info: figs/cap7/figura_13.png  used on input line 528.
@@ -1398,12 +1398,12 @@ Package pdftex.def Info: figs/cap7/figura_13.png  used on input line 528.
 [21
 
  <./figs/cap7/figura_12.png> <./figs/cap7/figura_13.png>]
-<figs/cap7/figura_24.png, id=515, 649.67719pt x 411.78844pt>
+<figs/cap7/figura_24.png, id=514, 649.67719pt x 411.78844pt>
 File: figs/cap7/figura_24.png Graphic file (type png)
 <use figs/cap7/figura_24.png>
 Package pdftex.def Info: figs/cap7/figura_24.png  used on input line 643.
 (pdftex.def)             Requested size: 154.03183pt x 97.6311pt.
-<figs/cap7/figura_6.png, id=516, 649.67719pt x 411.78844pt>
+<figs/cap7/figura_6.png, id=515, 649.67719pt x 411.78844pt>
 File: figs/cap7/figura_6.png Graphic file (type png)
 <use figs/cap7/figura_6.png>
 Package pdftex.def Info: figs/cap7/figura_6.png  used on input line 643.
@@ -1415,176 +1415,176 @@ Overfull \vbox (12.19461pt too high) detected at line 643
 [22
 
  <./figs/cap7/figura_24.png> <./figs/cap7/figura_6.png>]
-<figs/cap7/figura_15.png, id=539, 898.10532pt x 412.54124pt>
+<figs/cap7/figura_15.png, id=538, 898.10532pt x 412.54124pt>
 File: figs/cap7/figura_15.png Graphic file (type png)
 <use figs/cap7/figura_15.png>
-Package pdftex.def Info: figs/cap7/figura_15.png  used on input line 674.
+Package pdftex.def Info: figs/cap7/figura_15.png  used on input line 673.
 (pdftex.def)             Requested size: 171.14764pt x 78.61656pt.
-<figs/cap7/figura_16.png, id=540, 891.33pt x 412.54124pt>
+<figs/cap7/figura_16.png, id=539, 891.33pt x 412.54124pt>
 File: figs/cap7/figura_16.png Graphic file (type png)
 <use figs/cap7/figura_16.png>
-Package pdftex.def Info: figs/cap7/figura_16.png  used on input line 674.
+Package pdftex.def Info: figs/cap7/figura_16.png  used on input line 673.
 (pdftex.def)             Requested size: 171.14764pt x 79.21457pt.
  [23
 
  <./figs/cap7/figura_15.png> <./figs/cap7/figura_16.png>]
-<figs/cap7/figura_17.png, id=563, 891.33pt x 412.54124pt>
+<figs/cap7/figura_17.png, id=559, 891.33pt x 412.54124pt>
 File: figs/cap7/figura_17.png Graphic file (type png)
 <use figs/cap7/figura_17.png>
-Package pdftex.def Info: figs/cap7/figura_17.png  used on input line 706.
+Package pdftex.def Info: figs/cap7/figura_17.png  used on input line 704.
 (pdftex.def)             Requested size: 171.14764pt x 79.21457pt.
-<figs/cap7/figura_18.png, id=564, 565.36218pt x 573.64313pt>
+<figs/cap7/figura_18.png, id=560, 565.36218pt x 573.64313pt>
 File: figs/cap7/figura_18.png Graphic file (type png)
 <use figs/cap7/figura_18.png>
-Package pdftex.def Info: figs/cap7/figura_18.png  used on input line 706.
+Package pdftex.def Info: figs/cap7/figura_18.png  used on input line 704.
 (pdftex.def)             Requested size: 102.68962pt x 104.18788pt.
 
-Overfull \vbox (7.88889pt too high) detected at line 706
+Overfull \vbox (18.75139pt too high) detected at line 704
  []
 
 [24
 
  <./figs/cap7/figura_17.png> <./figs/cap7/figura_18.png>]
-<figs/cap7/figura_29.png, id=584, 652.68843pt x 414.04688pt>
+<figs/cap7/figura_29.png, id=580, 652.68843pt x 414.04688pt>
 File: figs/cap7/figura_29.png Graphic file (type png)
 <use figs/cap7/figura_29.png>
-Package pdftex.def Info: figs/cap7/figura_29.png  used on input line 744.
+Package pdftex.def Info: figs/cap7/figura_29.png  used on input line 742.
 (pdftex.def)             Requested size: 136.91862pt x 86.85764pt.
-<figs/cap7/figura_73.png, id=585, 706.89093pt x 472.76625pt>
+<figs/cap7/figura_73.png, id=581, 706.89093pt x 472.76625pt>
 File: figs/cap7/figura_73.png Graphic file (type png)
 <use figs/cap7/figura_73.png>
-Package pdftex.def Info: figs/cap7/figura_73.png  used on input line 744.
+Package pdftex.def Info: figs/cap7/figura_73.png  used on input line 742.
 (pdftex.def)             Requested size: 136.91862pt x 91.57227pt.
 
-Overfull \vbox (8.87326pt too high) detected at line 744
+Overfull \vbox (8.87326pt too high) detected at line 742
  []
 
 [25
 
  <./figs/cap7/figura_29.png> <./figs/cap7/figura_73.png>]
-<figs/cap7/figura_34.png, id=606, 889.07156pt x 412.54124pt>
+<figs/cap7/figura_34.png, id=605, 889.07156pt x 412.54124pt>
 File: figs/cap7/figura_34.png Graphic file (type png)
 <use figs/cap7/figura_34.png>
-Package pdftex.def Info: figs/cap7/figura_34.png  used on input line 775.
+Package pdftex.def Info: figs/cap7/figura_34.png  used on input line 773.
 (pdftex.def)             Requested size: 171.14764pt x 79.40971pt.
-<figs/cap7/figura_35.png, id=607, 876.27374pt x 412.54124pt>
+<figs/cap7/figura_35.png, id=606, 876.27374pt x 412.54124pt>
 File: figs/cap7/figura_35.png Graphic file (type png)
 <use figs/cap7/figura_35.png>
-Package pdftex.def Info: figs/cap7/figura_35.png  used on input line 775.
+Package pdftex.def Info: figs/cap7/figura_35.png  used on input line 773.
 (pdftex.def)             Requested size: 171.14764pt x 80.57426pt.
  [26
 
  <./figs/cap7/figura_34.png> <./figs/cap7/figura_35.png>]
-<figs/cap7/figura_36.png, id=627, 876.27374pt x 412.54124pt>
+<figs/cap7/figura_36.png, id=626, 876.27374pt x 412.54124pt>
 File: figs/cap7/figura_36.png Graphic file (type png)
 <use figs/cap7/figura_36.png>
-Package pdftex.def Info: figs/cap7/figura_36.png  used on input line 805.
+Package pdftex.def Info: figs/cap7/figura_36.png  used on input line 803.
 (pdftex.def)             Requested size: 171.14764pt x 80.57426pt.
-<figs/cap7/figura_37.png, id=628, 565.36218pt x 573.64313pt>
+<figs/cap7/figura_37.png, id=627, 565.36218pt x 573.64313pt>
 File: figs/cap7/figura_37.png Graphic file (type png)
 <use figs/cap7/figura_37.png>
-Package pdftex.def Info: figs/cap7/figura_37.png  used on input line 805.
+Package pdftex.def Info: figs/cap7/figura_37.png  used on input line 803.
 (pdftex.def)             Requested size: 102.68962pt x 104.18788pt.
 
-Overfull \vbox (7.28055pt too high) detected at line 805
+Overfull \vbox (7.28055pt too high) detected at line 803
  []
 
 [27
 
  <./figs/cap7/figura_36.png> <./figs/cap7/figura_37.png>]
-<figs/cap7/figura_38.png, id=651, 645.91313pt x 414.04688pt>
+<figs/cap7/figura_38.png, id=650, 645.91313pt x 414.04688pt>
 File: figs/cap7/figura_38.png Graphic file (type png)
 <use figs/cap7/figura_38.png>
-Package pdftex.def Info: figs/cap7/figura_38.png  used on input line 838.
+Package pdftex.def Info: figs/cap7/figura_38.png  used on input line 836.
 (pdftex.def)             Requested size: 136.91862pt x 87.7674pt.
-<figs/cap7/figura_90.png, id=652, 700.86844pt x 472.76625pt>
+<figs/cap7/figura_90.png, id=651, 700.86844pt x 472.76625pt>
 File: figs/cap7/figura_90.png Graphic file (type png)
 <use figs/cap7/figura_90.png>
-Package pdftex.def Info: figs/cap7/figura_90.png  used on input line 838.
+Package pdftex.def Info: figs/cap7/figura_90.png  used on input line 836.
 (pdftex.def)             Requested size: 136.91862pt x 92.35135pt.
 
-Overfull \vbox (9.04402pt too high) detected at line 838
+Overfull \vbox (9.04402pt too high) detected at line 836
  []
 
 [28
 
  <./figs/cap7/figura_38.png> <./figs/cap7/figura_90.png>]
-<figs/cap7/figura_43.png, id=672, 864.22874pt x 414.04688pt>
+<figs/cap7/figura_43.png, id=671, 864.22874pt x 414.04688pt>
 File: figs/cap7/figura_43.png Graphic file (type png)
 <use figs/cap7/figura_43.png>
-Package pdftex.def Info: figs/cap7/figura_43.png  used on input line 870.
+Package pdftex.def Info: figs/cap7/figura_43.png  used on input line 868.
 (pdftex.def)             Requested size: 171.14764pt x 81.9929pt.
-<figs/cap7/figura_44.png, id=673, 858.20625pt x 414.04688pt>
+<figs/cap7/figura_44.png, id=672, 858.20625pt x 414.04688pt>
 File: figs/cap7/figura_44.png Graphic file (type png)
 <use figs/cap7/figura_44.png>
-Package pdftex.def Info: figs/cap7/figura_44.png  used on input line 870.
+Package pdftex.def Info: figs/cap7/figura_44.png  used on input line 868.
 (pdftex.def)             Requested size: 171.14764pt x 82.56783pt.
 
-Overfull \vbox (0.30498pt too high) detected at line 870
+Overfull \vbox (0.30498pt too high) detected at line 868
  []
 
 [29
 
  <./figs/cap7/figura_43.png> <./figs/cap7/figura_44.png>]
-<figs/cap7/figura_45.png, id=693, 858.20625pt x 414.04688pt>
+<figs/cap7/figura_45.png, id=692, 858.20625pt x 414.04688pt>
 File: figs/cap7/figura_45.png Graphic file (type png)
 <use figs/cap7/figura_45.png>
-Package pdftex.def Info: figs/cap7/figura_45.png  used on input line 898.
+Package pdftex.def Info: figs/cap7/figura_45.png  used on input line 896.
 (pdftex.def)             Requested size: 154.03183pt x 74.31041pt.
-<figs/cap7/figura_46.png, id=694, 565.36218pt x 572.1375pt>
+<figs/cap7/figura_46.png, id=693, 565.36218pt x 572.1375pt>
 File: figs/cap7/figura_46.png Graphic file (type png)
 <use figs/cap7/figura_46.png>
-Package pdftex.def Info: figs/cap7/figura_46.png  used on input line 898.
+Package pdftex.def Info: figs/cap7/figura_46.png  used on input line 896.
 (pdftex.def)             Requested size: 102.68962pt x 103.91441pt.
 
-Overfull \vbox (7.00708pt too high) detected at line 898
+Overfull \vbox (7.00708pt too high) detected at line 896
  []
 
 [30
 
  <./figs/cap7/figura_45.png> <./figs/cap7/figura_46.png>]
-<figs/cap7/figura_48.png, id=714, 652.68843pt x 414.04688pt>
+<figs/cap7/figura_48.png, id=713, 652.68843pt x 414.04688pt>
 File: figs/cap7/figura_48.png Graphic file (type png)
 <use figs/cap7/figura_48.png>
-Package pdftex.def Info: figs/cap7/figura_48.png  used on input line 935.
+Package pdftex.def Info: figs/cap7/figura_48.png  used on input line 933.
 (pdftex.def)             Requested size: 136.91862pt x 86.85764pt.
-<figs/cap7/figura_111.png, id=715, 700.86844pt x 472.76625pt>
+<figs/cap7/figura_111.png, id=714, 700.86844pt x 472.76625pt>
 File: figs/cap7/figura_111.png Graphic file (type png)
 <use figs/cap7/figura_111.png>
-Package pdftex.def Info: figs/cap7/figura_111.png  used on input line 935.
+Package pdftex.def Info: figs/cap7/figura_111.png  used on input line 933.
 (pdftex.def)             Requested size: 136.91862pt x 92.35135pt.
 
-Overfull \vbox (9.65234pt too high) detected at line 935
+Overfull \vbox (9.65234pt too high) detected at line 933
  []
 
 [31
 
  <./figs/cap7/figura_48.png> <./figs/cap7/figura_111.png>]
-<figs/cap7/figura_53.png, id=736, 901.86937pt x 414.04688pt>
+<figs/cap7/figura_53.png, id=735, 901.86937pt x 414.04688pt>
 File: figs/cap7/figura_53.png Graphic file (type png)
 <use figs/cap7/figura_53.png>
-Package pdftex.def Info: figs/cap7/figura_53.png  used on input line 965.
+Package pdftex.def Info: figs/cap7/figura_53.png  used on input line 963.
 (pdftex.def)             Requested size: 171.14764pt x 78.56863pt.
-<figs/cap7/figura_54.png, id=737, 895.09406pt x 414.04688pt>
+<figs/cap7/figura_54.png, id=736, 895.09406pt x 414.04688pt>
 File: figs/cap7/figura_54.png Graphic file (type png)
 <use figs/cap7/figura_54.png>
-Package pdftex.def Info: figs/cap7/figura_54.png  used on input line 965.
+Package pdftex.def Info: figs/cap7/figura_54.png  used on input line 963.
 (pdftex.def)             Requested size: 171.14764pt x 79.16882pt.
  [32
 
  <./figs/cap7/figura_53.png> <./figs/cap7/figura_54.png>]
-<figs/cap7/figura_55.png, id=757, 895.09406pt x 414.04688pt>
+<figs/cap7/figura_55.png, id=756, 895.09406pt x 414.04688pt>
 File: figs/cap7/figura_55.png Graphic file (type png)
 <use figs/cap7/figura_55.png>
-Package pdftex.def Info: figs/cap7/figura_55.png  used on input line 997.
+Package pdftex.def Info: figs/cap7/figura_55.png  used on input line 995.
 (pdftex.def)             Requested size: 171.14764pt x 79.16882pt.
-<figs/cap7/figura_56.png, id=758, 565.36218pt x 572.1375pt>
+<figs/cap7/figura_56.png, id=757, 565.36218pt x 572.1375pt>
 File: figs/cap7/figura_56.png Graphic file (type png)
 <use figs/cap7/figura_56.png>
-Package pdftex.def Info: figs/cap7/figura_56.png  used on input line 997.
+Package pdftex.def Info: figs/cap7/figura_56.png  used on input line 995.
 (pdftex.def)             Requested size: 102.68962pt x 103.91441pt.
 
-Overfull \vbox (7.00708pt too high) detected at line 997
+Overfull \vbox (7.00708pt too high) detected at line 995
  []
 
 [33
@@ -1592,7 +1592,7 @@ Overfull \vbox (7.00708pt too high) detected at line 997
  <./figs/cap7/figura_55.png> <./figs/cap7/figura_56.png>] [34
 
 ]
-Overfull \vbox (1.72528pt too high) detected at line 1050
+Overfull \vbox (1.72528pt too high) detected at line 1048
  []
 
 [35
@@ -1600,7 +1600,7 @@ Overfull \vbox (1.72528pt too high) detected at line 1050
 ]
 File: figs/LogoUNED.png Graphic file (type png)
 <use figs/LogoUNED.png>
-Package pdftex.def Info: figs/LogoUNED.png  used on input line 1057.
+Package pdftex.def Info: figs/LogoUNED.png  used on input line 1055.
 (pdftex.def)             Requested size: 85.35826pt x 40.83266pt.
  [36
 
@@ -1680,39 +1680,29 @@ Package pdftex.def Info: figs/LogoUNED.png  used on input line 1057.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-
-Package rerunfilecheck Warning: File `tfm-presentacion-23.06.27.out' has change
-d.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `tfm-presentacion-23.06.27.out':
-(rerunfilecheck)             Before: BF356BB0DB971DAD103D661BFA6FC52C;3037
-(rerunfilecheck)             After:  85CEC1648A6B28966B2DFE0D05D6F07A;3037.
+Package rerunfilecheck Info: File `tfm-presentacion-23.06.27.out' has not chang
+ed.
+(rerunfilecheck)             Checksum: 85CEC1648A6B28966B2DFE0D05D6F07A;3037.
  ) 
 Here is how much of TeX's memory you used:
- 29157 strings out of 476315
- 569708 string characters out of 5787196
+ 29156 strings out of 476315
+ 569693 string characters out of 5787196
  1873068 words of memory out of 5000000
  48878 multiletter control sequences out of 15000+600000
  521990 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,122p,430b,998s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{Outline0.2.3.14} has been referenced but does not e
-xist, replaced by a fixed one
-
-<C:/Users/David/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-ss10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmss12.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmss8.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/David/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/David/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/David/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tfm-presentacion-23.06.27.pdf (40 pages, 2463251 bytes).
+<C:/Users/David/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmss10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmss12.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmss8.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/David/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/David/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/David/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on tfm-presentacion-23.06.27.pdf (40 pages, 2463200 bytes).
 PDF statistics:
- 895 PDF objects out of 1000 (max. 8388607)
- 115 named destinations out of 1000 (max. 500000)
+ 893 PDF objects out of 1000 (max. 8388607)
+ 114 named destinations out of 1000 (max. 500000)
  1371 words of extra memory for PDF output out of 10000 (max. 10000000)
 
